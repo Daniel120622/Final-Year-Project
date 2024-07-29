@@ -1,6 +1,8 @@
 <b> Combination of Classification and Stable Diffusion </b></p>
 This project combines image classification with stable diffusion using a Colab environment. It includes uploading a picture, classifying it with a pre-trained model, and generating related images using stable diffusion.
 
+Here is the link : https://colab.research.google.com/drive/1ZJOWHqGSWr4QuheQ9jcmm2QFPa74m1Hy?usp=sharing
+
 <b> Table of Contents </b></p>
 1. Introduction </p>
 2. Features</p>
