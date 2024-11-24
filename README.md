@@ -1,8 +1,8 @@
 <b> Combination of Classification and Stable Diffusion </b></p>
 This project combines image classification with stable diffusion using a Colab environment. It includes uploading a picture, classifying it with a pre-trained model, and generating related images using stable diffusion.
 
-Here is the link : https://colab.research.google.com/drive/1OemVMn-CMT3isCRJrB8qZl83hhL7CBhl
-Dataset for cloth classification: https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full
+<b>Here is the link : https://colab.research.google.com/drive/1OemVMn-CMT3isCRJrB8qZl83hhL7CBhl</b>
+<p><b>Dataset for cloth classification: https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full</b></p>
 
 <b> Table of Contents </b></p>
 1. Introduction </p>
